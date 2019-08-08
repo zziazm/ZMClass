@@ -1,0 +1,6 @@
+framework module sample_ios_native_cryptoengine {
+  umbrella header "sample_ios_native_cryptoengine.h"
+
+  export *
+  module * { export * }
+}

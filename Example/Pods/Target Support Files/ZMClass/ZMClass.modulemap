@@ -1,0 +1,6 @@
+framework module ZMClass {
+  umbrella header "ZMClass-umbrella.h"
+
+  export *
+  module * { export * }
+}

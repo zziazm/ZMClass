@@ -1,0 +1,22 @@
+{
+  "name": "ZMClass",
+  "version": "0.1.0",
+  "summary": "A short description of ZMClass.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zziazm/ZMClass",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zziazm": "1310726454@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/zziazm/ZMClass.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZMClass/Classes/**/*"
+}

@@ -1,0 +1,11 @@
+framework module mpsdk {
+  umbrella header "mpsdk.h"
+
+  export *
+  module * { export * }
+}
+
+module mpsdk.Swift {
+    header "mpsdk-Swift.h"
+    requires objc
+}

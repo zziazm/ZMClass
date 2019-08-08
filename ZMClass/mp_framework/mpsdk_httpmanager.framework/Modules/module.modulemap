@@ -1,0 +1,11 @@
+framework module mpsdk_httpmanager {
+  umbrella header "mpsdk_httpmanager.h"
+
+  export *
+  module * { export * }
+}
+
+module mpsdk_httpmanager.Swift {
+    header "mpsdk_httpmanager-Swift.h"
+    requires objc
+}

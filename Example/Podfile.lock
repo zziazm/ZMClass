@@ -1,0 +1,16 @@
+PODS:
+  - ZMClass (0.1.0)
+
+DEPENDENCIES:
+  - ZMClass (from `../`)
+
+EXTERNAL SOURCES:
+  ZMClass:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZMClass: 07ba44f3c8f30208d00c10261b13139dc9f5164d
+
+PODFILE CHECKSUM: 308c37c6ad8df6d634743655dd3e2d45f3cbe5e8
+
+COCOAPODS: 1.7.1
