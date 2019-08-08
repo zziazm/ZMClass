@@ -1,6 +1,0 @@
-framework module mpsdk_componentinterface {
-  umbrella header "mpsdk_componentinterface.h"
-
-  export *
-  module * { export * }
-}

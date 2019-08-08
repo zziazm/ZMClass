@@ -39,5 +39,5 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'AFNetworking', '~> 2.3'
-  s.ios.vendored_frameworks = 'ZMClass/mp_framework/mchip_engine.framework'
+  s.ios.vendored_frameworks = 'ZMClass/mp_framework/mpsdk.framework'
 end

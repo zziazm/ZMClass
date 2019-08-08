@@ -1,6 +1,0 @@
-framework module mpsdk_remotemanagement {
-  umbrella header "mpsdk_remotemanagement.h"
-
-  export *
-  module * { export * }
-}

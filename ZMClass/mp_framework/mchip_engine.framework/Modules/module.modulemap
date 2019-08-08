@@ -1,4 +1,0 @@
-framework module mchip_engine {
-    header "mchip_engine-Swift.h"
-    requires objc
-}

@@ -10,14 +10,7 @@
 		096066A265F6DD30AF149A97A4827DD6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		26AB888922FC004500CC38C6 /* ZMClass.h in Headers */ = {isa = PBXBuildFile; fileRef = 26AB888722FC004500CC38C6 /* ZMClass.h */; };
 		26AB888A22FC004500CC38C6 /* ZMClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 26AB888822FC004500CC38C6 /* ZMClass.m */; };
-		26AB88B622FC067000CC38C6 /* mchip_engine.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26AB88AE22FC067000CC38C6 /* mchip_engine.framework */; };
-		26AB88B722FC067000CC38C6 /* mpsdk_database.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26AB88AF22FC067000CC38C6 /* mpsdk_database.framework */; };
-		26AB88B822FC067000CC38C6 /* mpsdk_remotemanagement.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26AB88B022FC067000CC38C6 /* mpsdk_remotemanagement.framework */; };
-		26AB88B922FC067000CC38C6 /* CommonCrypto.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26AB88B122FC067000CC38C6 /* CommonCrypto.framework */; };
 		26AB88BA22FC067000CC38C6 /* mpsdk.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26AB88B222FC067000CC38C6 /* mpsdk.framework */; };
-		26AB88BB22FC067000CC38C6 /* mpsdk_componentinterface.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26AB88B322FC067000CC38C6 /* mpsdk_componentinterface.framework */; };
-		26AB88BC22FC067000CC38C6 /* sample_ios_native_cryptoengine.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26AB88B422FC067000CC38C6 /* sample_ios_native_cryptoengine.framework */; };
-		26AB88BD22FC067000CC38C6 /* mpsdk_httpmanager.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 26AB88B522FC067000CC38C6 /* mpsdk_httpmanager.framework */; };
 		403B3D1EDAE9FB4C61680D97B591391E /* Pods-ZMClass_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C78B0873453270D9863956CA16E4931 /* Pods-ZMClass_Tests-dummy.m */; };
 		68248645479410D9723509628951ACD2 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		7FE2E4B98C76FEF97595DF8D3E6177BE /* ZMClass-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = D53F843320804C216151B054C927B031 /* ZMClass-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -44,14 +37,7 @@
 		20F07033BEFB81BC009BE4D2527E7926 /* ZMClass-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZMClass-dummy.m"; sourceTree = "<group>"; };
 		26AB888722FC004500CC38C6 /* ZMClass.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ZMClass.h; path = ZMClass/Classes/ZMClass.h; sourceTree = "<group>"; };
 		26AB888822FC004500CC38C6 /* ZMClass.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = ZMClass.m; path = ZMClass/Classes/ZMClass.m; sourceTree = "<group>"; };
-		26AB88AE22FC067000CC38C6 /* mchip_engine.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = mchip_engine.framework; sourceTree = "<group>"; };
-		26AB88AF22FC067000CC38C6 /* mpsdk_database.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = mpsdk_database.framework; sourceTree = "<group>"; };
-		26AB88B022FC067000CC38C6 /* mpsdk_remotemanagement.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = mpsdk_remotemanagement.framework; sourceTree = "<group>"; };
-		26AB88B122FC067000CC38C6 /* CommonCrypto.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CommonCrypto.framework; sourceTree = "<group>"; };
 		26AB88B222FC067000CC38C6 /* mpsdk.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = mpsdk.framework; sourceTree = "<group>"; };
-		26AB88B322FC067000CC38C6 /* mpsdk_componentinterface.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = mpsdk_componentinterface.framework; sourceTree = "<group>"; };
-		26AB88B422FC067000CC38C6 /* sample_ios_native_cryptoengine.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = sample_ios_native_cryptoengine.framework; sourceTree = "<group>"; };
-		26AB88B522FC067000CC38C6 /* mpsdk_httpmanager.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = mpsdk_httpmanager.framework; sourceTree = "<group>"; };
 		27DCD550C6CC8B191B9A8E673CFAE576 /* ZMClass-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ZMClass-Info.plist"; sourceTree = "<group>"; };
 		2C78B0873453270D9863956CA16E4931 /* Pods-ZMClass_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZMClass_Tests-dummy.m"; sourceTree = "<group>"; };
 		312DB586F95CCB9F6FC7EBEEFD7023C6 /* Pods-ZMClass_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZMClass_Tests-Info.plist"; sourceTree = "<group>"; };
@@ -86,13 +72,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				26AB88BA22FC067000CC38C6 /* mpsdk.framework in Frameworks */,
-				26AB88B722FC067000CC38C6 /* mpsdk_database.framework in Frameworks */,
-				26AB88B622FC067000CC38C6 /* mchip_engine.framework in Frameworks */,
-				26AB88B822FC067000CC38C6 /* mpsdk_remotemanagement.framework in Frameworks */,
-				26AB88BD22FC067000CC38C6 /* mpsdk_httpmanager.framework in Frameworks */,
-				26AB88BC22FC067000CC38C6 /* sample_ios_native_cryptoengine.framework in Frameworks */,
-				26AB88B922FC067000CC38C6 /* CommonCrypto.framework in Frameworks */,
-				26AB88BB22FC067000CC38C6 /* mpsdk_componentinterface.framework in Frameworks */,
 				68248645479410D9723509628951ACD2 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -144,14 +123,7 @@
 		26AB88AD22FC067000CC38C6 /* mp_framework */ = {
 			isa = PBXGroup;
 			children = (
-				26AB88AE22FC067000CC38C6 /* mchip_engine.framework */,
-				26AB88AF22FC067000CC38C6 /* mpsdk_database.framework */,
-				26AB88B022FC067000CC38C6 /* mpsdk_remotemanagement.framework */,
-				26AB88B122FC067000CC38C6 /* CommonCrypto.framework */,
 				26AB88B222FC067000CC38C6 /* mpsdk.framework */,
-				26AB88B322FC067000CC38C6 /* mpsdk_componentinterface.framework */,
-				26AB88B422FC067000CC38C6 /* sample_ios_native_cryptoengine.framework */,
-				26AB88B522FC067000CC38C6 /* mpsdk_httpmanager.framework */,
 			);
 			name = mp_framework;
 			path = ZMClass/mp_framework;
